@@ -7,7 +7,7 @@
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Release">
-				<Option output="bin/Release/PlainProject-v2" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/PlainProject-v2.5" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -47,6 +47,7 @@
 		<Unit filename="set.h" />
 		<Unit filename="stack.h" />
 		<Unit filename="vector.h" />
+		<Unit filename="y.tab.cpp" />
 		<Unit filename="y.tab.h" />
 		<Extensions>
 			<code_completion />
